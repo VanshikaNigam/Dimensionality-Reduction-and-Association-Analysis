@@ -1,0 +1,9 @@
+README
+
+1.Provide input file name for which the three algorithms are to be run in the paramters of np.loadtxt for test , initial and matrix
+2.Provide output file name for PCA plot at line 75
+3.Provide output file name for SVD plot at line 82
+4. Provide output file name for t-SNE at line 91
+5. Use PCA_a.ipynb for getting plots and mention file name same as outfile of PCA plot obtained from pca1.py 
+6.Use tsne_a.ipynb for getting plots and mention file name same as outfile of tsne plot obtained from pca1.py 
+7.Use svd_a.ipynb for getting plots and mention file name same as outfile of svd plot obtained from pca1.py 
